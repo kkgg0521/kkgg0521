@@ -1,4 +1,4 @@
-![Headimg](https://github.com/Fgaoxing/Fgaoxing/assets/92655031/1cba8644-c53c-44b7-a7f1-7bd72cfd0e16)
+[//]: # (![Headimg]&#40;https://github.com/Fgaoxing/Fgaoxing/assets/92655031/1cba8644-c53c-44b7-a7f1-7bd72cfd0e16&#41;)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kkgg0521/kkgg0521/blob/main/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/kkgg0521/kkgg0521/blob/main/github-snake.svg">
